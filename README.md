@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tikitikijiu
-- 👀 I’m interested in crypt
+- 👀 I’m interested in crypto
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me Twitter is @neko_tiki
 <!---
